@@ -8,8 +8,8 @@
 
 <h3 align="center">
   <a href="https://kristianbonnici.github.io/">
-    Visit my personal homepage:
-    <img src="img/space.gif" alt="Visit homepage">
+    Visit my personal homepage:<br>
+    <img src="img/space.gif" alt="Visit homepage"><br>
     <img src="img/code.gif" alt="Visit homepage">
   </a>
 </h3>
