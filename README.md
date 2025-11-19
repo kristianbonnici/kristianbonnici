@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>
-    M.Sc. Student @ Aalto University. Skilled in data science, business analytics, and computer science.
+    Data Scientist @ Nokia. Skilled in data science, business analytics, and computer science.
   </b>
 </p>
 
